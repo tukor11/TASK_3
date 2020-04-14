@@ -1,7 +1,7 @@
 print("Enter first integer")
 first = input(">")
 print("Enter second integer")
-second = input('>')
+second = input(">")
 
 try:
     total = int(first) + int(second)
