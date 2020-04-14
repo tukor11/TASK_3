@@ -9,4 +9,4 @@ try:
         total = 20
     print("Sum is ",total)
 except:
-    print('wrong integer value!')
+    print("wrong integer value!")
